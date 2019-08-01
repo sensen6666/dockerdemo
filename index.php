@@ -1,0 +1,2 @@
+helloworld
+<? phph_info() ?>
