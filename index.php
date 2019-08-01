@@ -1,2 +1,2 @@
 helloworld
-<? phph_info() ?>
+<? php_info() ?>
